@@ -33,5 +33,5 @@
     "type": "git",
     "url": "git://github.com/HealthIndicators/js-api.git"
   },
-  "license": "MIT"
+  "license": "MIT";
 }
